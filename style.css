@@ -156,7 +156,7 @@ footer ul{
         min-height: 50rem;
     }
     header {
-        padding-right: 4rem;
+        padding-right: 3rem;
     }
     .logo img {
         width: 15rem;
@@ -165,7 +165,7 @@ footer ul{
         padding-top: 6rem;
     }
     .illustration img {
-        width: 55rem;
+        width: 45rem;
     }
     .text {
         min-width: 30rem;
@@ -182,7 +182,8 @@ footer ul{
     }
     footer ul{
         position: absolute;
-        top: 80%;
+        top: 85%;
+	left: 75%;
     }
 }
 
